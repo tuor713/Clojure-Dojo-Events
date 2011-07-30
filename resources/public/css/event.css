@@ -1,0 +1,65 @@
+body {  
+    background: #2a2b2b;  
+    color: #d1d9e1;  
+    padding: 60px 80px;
+    font-size: 80%;
+    font-family: Helvetica,Verdana;
+}
+
+h2 {
+    font-size: 125%;
+    padding-bottom: 0.5em;
+}
+
+nav {
+    padding-bottom: 1em;
+}
+
+nav span { 
+    float: left;
+    padding-right: 10px;
+}
+
+#registrations {
+    padding-top: 1em;
+}
+
+#signup {
+    padding-top: 1em;
+}
+
+
+
+.underlaid {
+    position: relative;
+    padding-bottom: 5px;
+}
+
+.underlaid label {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    display: block;
+    font-size: 11px;
+    font-style: italic;
+    color: #4D4C4C;
+    padding-top: 4px;
+    padding-bottom: 3px;
+    padding-left: 8px;
+    padding-right: 10px;
+}
+
+th {
+    padding-right: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+td {
+    padding-right: 20px;
+    text-align: center;
+}
+
+.validation {
+    color: #f55;
+}
